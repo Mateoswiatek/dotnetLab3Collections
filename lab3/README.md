@@ -1,0 +1,1 @@
+Jedyny problem jest z datą.
